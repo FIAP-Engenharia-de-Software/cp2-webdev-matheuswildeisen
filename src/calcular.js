@@ -1,5 +1,7 @@
 // ### Calculadora Simples (2 pontos)
 
+const { adivinharNumero } = require("./adivinharNumero");
+
 // **Enunciado:**
 
 // Crie uma função chamada Calcular, que recebe dois números e uma operação matemática (`+`, `-`, `*`, `/`). A função deve:
@@ -10,7 +12,7 @@
 // - Executar a operação correta e retornar o resultado;
 
 function calcular(num1, num2, operador) {
-  // TODO: implementar função
+
 }
 
 

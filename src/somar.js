@@ -5,6 +5,10 @@
 
 function somar(a, b) {
   let resultado = a + b;
+  numero = 1
+  if (b == undefined) {
+    return b = 0
+  }
   return resultado;
 }
 
